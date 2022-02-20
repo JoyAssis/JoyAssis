@@ -13,6 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Joy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Joy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" alt="me-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/fd/d1/8f/fdd18f3ffd8b5409e3b14d191034f147.jpg"> 
 </div>
