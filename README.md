@@ -1,7 +1,7 @@
 ### Olá! Bem vindes, eu sou a Joy!
 
 - 🔭 Istrutora técnica de desenvolvimento web front-end
-- 🌱 2º semestre em Ciências da Computação
+- 🌱 3º semestre em Ciências da Computação
 - 📫 Contato: joyceassis96@gmail.com
 - 😄 Pronomes: Ela/Dela
 
