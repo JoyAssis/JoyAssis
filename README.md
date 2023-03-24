@@ -1,7 +1,7 @@
 ### Olá! Bem vindes, eu sou a Joy!
 
 - 🔭 Istrutora técnica de desenvolvimento web front-end
-- 🌱 3º semestre em Ciências da Computação
+- 🌱 4º semestre em Ciências da Computação
 - 📫 Contato: joyceassis96@gmail.com
 - 😄 Pronomes: Ela/Dela
 
@@ -24,3 +24,8 @@
     <a href="https://www.instagram.com/imjoyassis/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/joyce-assis-31a100179/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>  
+  
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JoyAssis&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JoyAssis&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyAssis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
