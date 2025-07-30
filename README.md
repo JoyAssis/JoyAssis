@@ -43,14 +43,4 @@
 
 ---
 
-### Minhas Estatísticas no GitHub 📈
-
-<div align="center">
-  <a href="https://github.com/JoyAssis">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoyAssis&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoyAssis&theme=buefy&hide_border=true"/>
-  </a>
-</div>
-
----
 
