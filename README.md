@@ -2,7 +2,7 @@
   <div style="max-width: 800px; text-align: left; margin: 0 auto;">
     <img src="https://i.pinimg.com/736x/f3/d3/74/f3d374d9e988a32a2e7f8c8ce84a4c20.jpg" alt="Sua imagem de perfil" width="180" style="float: right; margin-left: 20px; margin-bottom: 10px;"/>
     <p>
-      Olá! Sou a Joy, uma entusiasta da tecnologia com paixão por transformar ideias em soluções reais. Minha jornada profissional e acadêmica me permitiu mergulhar em diversas áreas, desde o desenvolvimento de software até a gestão estratégica de projetos e organizações. Sou graduada em <strong>Ciências da Computação</strong> e em <strong>Gestão de Organizações do Terceiro Setor</strong>, o que me dá uma visão holística tanto da tecnologia quanto do impacto social que ela pode gerar.
+      Olá! Sou a Joy, uma entusiasta da tecnologia com paixão por transformar ideias em soluções reais. Minha jornada profissional e acadêmica me permitiu mergulhar em diversas áreas, desde o desenvolvimento de software até a gestão estratégica de projetos e organizações. Sou graduada em <strong>Pedagogia</strong>, <strong>Ciências da Computação</strong> e em <strong>Gestão de Organizações do Terceiro Setor</strong>, o que me dá uma visão holística tanto da tecnologia quanto do impacto social que ela pode gerar.
     </p>
     <p>
       Atualmente, atuo como <strong>Coordenadora Pedagógica</strong> no Vai na Web, onde tenho o privilégio de capacitar jovens e adultos em tecnologia. Além disso, minhas habilidades se estendem ao <strong>desenvolvimento Full-Stack</strong> (Front-end e Back-end), <strong>Análise de Dados</strong> e <strong>Product Ownership (PO)</strong>, sempre buscando aprimorar e aplicar meus conhecimentos em projetos desafiadores.
